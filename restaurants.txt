@@ -1,0 +1,105 @@
+Rua Jambeiro, 400 - Loja 	Vila Valqueire	Rio de Janeiro 	 RJ
+Siqueira Campos, 138 - A 	Copacabana	Rio de Janeiro 	 RJ
+Rua Visconde de Abaeté, 123 	Vila Isabel	Rio de Janeiro 	 RJ
+Estrada Francisco da Cruz Nunes, 11500 	Itaipu	Niterói 	 RJ
+Rua Áurea, 26 - Loja 	Santa Teresa	Rio de Janeiro 	 RJ
+Rua Estrada Macembu, 63 	Taquara	Rio de Janeiro 	 RJ
+Rua Araguaia, 1709 	Freguesia de Jacarepaguá	Rio de Janeiro 	 RJ
+Rua Gago Coutinho, 51, 51 	Laranjeiras	Rio de Janeiro 	 RJ
+Travessa Tamoios, 40 - Loja A 	Flamengo	Rio de Janeiro 	 RJ
+Praça Do Bandolim, 296 	Curicica	Rio de Janeiro 	 RJ
+Rua Barão de Mesquita, 615 - Lojas C e D 	Tijuca	Rio de Janeiro 	 RJ
+Rua Visconde do Uruguai, 183 	Centro	Niterói 	 RJ
+Rua Custódio Nunes, 155 - Loja D 	Ramos	Rio de Janeiro 	 RJ
+Ladeira Ari Barroso, 66 - Chapéu Mangueira -Loja 3 	Leme	Rio de Janeiro 	 RJ
+Alameda Dalton Barreto (Ilha da Gigóia), 40 - Loja 	Barra da Tijuca	Rio de Janeiro 	 RJ
+Rua Cidade do Rio, 185 	Taquara	Rio de Janeiro 	 RJ
+Praia Praia de Itaipu, 20 - A 	Itaipu	Niterói 	 RJ
+Rua Professor Valadares, 78 	Grajaú	Rio de Janeiro 	 RJ
+Rua Paschoal Carlos Magno, 99 	Santa Teresa	Rio de Janeiro 	 RJ
+Rua General Espírito Santo Cardoso, 50 - Loja A 	Tijuca	Rio de Janeiro 	 RJ
+Rua Sara, 114 	Santo Cristo	Rio de Janeiro 	 RJ
+Rua Marechal Deodoro, 216 	Centro	Niterói 	 RJ
+Rua Almirante Alexandrino, 3780 	Santa Teresa	Rio de Janeiro 	 RJ
+Rua Castro Barbosa, 36 - Loja A - Grajaú	undefined	undefined	undefined
+Rua Humaitá, 12 - Loja C 	Humaitá	Rio de Janeiro 	 RJ
+Avenida Salvador De Sá, 77 	Cidade Nova	Rio de Janeiro 	 RJ
+Rua Barão de Mesquita, 922 	Grajaú	Rio de Janeiro 	 RJ
+Rua Paschoal Carlos Magno, 115 	Santa Teresa	Rio de Janeiro 	 RJ
+Rua Geraldo Martins, 54 - Loja 101/102 	Icaraí	Niterói 	 RJ
+Rua Antônio Sales, 4 	Colônia Z10	Rio de Janeiro 	 RJ
+Rua Das Rosas, 1500 	Vila Valqueire	Rio de Janeiro 	 RJ
+Rua Manuela Barbosa, 45 	Méier	Rio de Janeiro 	 RJ
+Rua General Canabarro, 218 	Maracanã	Rio de Janeiro 	 RJ
+Avenida Oliveira Belo, 1180 - Loja E 	Vila da Penha	Rio de Janeiro 	 RJ
+Avenida Mem de Sá, 63 	Lapa	Rio de Janeiro 	 RJ
+Avenida Brás de Pina, 2968 	Vista Alegre	Rio de Janeiro 	 RJ
+Avenida Gomes Freire, 822 	Lapa	Rio de Janeiro 	 RJ
+Rua Carmem de Freitas Salgado, 237 	Califórnia	Nova Iguaçu 	 RJ
+Barão de Mesquita, 965 - Loja B - Grajaú	undefined	undefined	undefined
+Rua General Venâncio Flores, 594 	Jd. Vinte e Cinco de Agosto	Duque de Caxias 	 RJ
+Rua Paula Brito, 240 	Andaraí	Rio de Janeiro 	 RJ
+Rua Barata Ribeiro, 247 	Copacabana	Rio de Janeiro 	 RJ
+Rua Uranos, 1489 	Olaria	Rio de Janeiro 	 RJ
+Rua Luís Sá, 205 	Portuguesa	Rio de Janeiro 	 RJ
+Rua Coronel Francisco Soares, 1351 	Nova Iguaçu	Nova Iguaçu 	 RJ
+Rua Gomes Braga, 5 - A 	Andaraí	Rio de Janeiro 	 RJ
+Rua Barão de Mesquita, 893 	Andaraí	Rio de Janeiro 	 RJ
+Rua Cachambi, 475 - Lojas A E B 	Cachambi	Rio de Janeiro 	 RJ
+Rua Ministro João Alberto, Lote 40, Quadra 88 	Jd. Meriti	São João de Meriti 	 RJ
+Rua São Salvador, 85 - Loja A 	Flamengo	Rio de Janeiro 	 RJ
+Rua Joana Kalil, 9 	Jardim Meriti	São João de Meriti 	 RJ
+Rua Praia de Itaipu, 22 - Travessa Tereza 	Itaipu	Niterói 	 RJ
+Rua Lino Teixeira, 304 - Loja A 	Jacaré	Rio de Janeiro 	 RJ
+Rua General Venâncio Flores, 276 	Jardim Vinte e Cinco de Agosto	Duque de Caxias 	 RJ
+Rua Conselheiro Saraiva, 39 	Centro	Rio de Janeiro 	 RJ
+Rua Visconde de Itamarati, 115 - A 	Maracanã	Rio de Janeiro 	 RJ
+Avenida Gomes Freire, 625 - Loja A 	Lapa	Rio de Janeiro 	 RJ
+Rua Barão de Iguatemi, 408 	Praça da Bandeira	Rio de Janeiro 	 RJ
+Rua Alameda dos Ingás (Ilha da Gigóia), 190 - Casa B 	Barra da Tijuca	Rio de Janeiro 	 RJ
+Travessa Tamoios, 32 - Loja A 	Flamengo	Rio de Janeiro 	 RJ
+Rua Barão de Iguatemi, 379 	Praça da Bandeira	Rio de Janeiro 	 RJ
+Rua Francisco Manuel, 31 	Benfica	Rio de Janeiro 	 RJ
+Rua Humberto de Campos, 143 	Centro	Duque De Caxias 	 RJ
+Rua Álvares de Azevedo, 108 - Loja 102 	Icaraí	Niterói 	 RJ
+Rua Gabriel Lisboa, 5 - Loja B 	Irajá	Rio de Janeiro 	 RJ
+Rua Capitão Félix, 110 - Av. Central, Loja 14 	Benfica	Rio de Janeiro 	 RJ
+Avenida Tenente-Coronel Muniz de Aragão, 26 - Jacarepaguá 	Anil	Rio de Janeiro 	 RJ
+Avenida Engenheiro Richard, 2 	Grajaú	Rio de Janeiro 	 RJ
+Rua Cachambi, 253 - Loja B 	Cachambi	Rio de Janeiro 	 RJ
+Rua Ituverava, 665 	Anil	Rio de Janeiro 	 RJ
+Rua Torres Homem, 118 - Loja C 	Vila Isabel	Rio de Janeiro 	 RJ
+Rua Vereador Duque Estrada, 50 	Santa Rosa	Niterói 	 RJ
+Rua Arcozelo, 60 - Loja B 	Vila Valqueire	Rio de Janeiro 	 RJ
+Rua Furquim Werneck, 110 	Paquetá	Rio de Janeiro 	 RJ
+Rua Nelson Mandela, 100 - Loja 104 	Botafogo	Rio de Janeiro 	 RJ
+Ilha Primeira, 13 	Barra	Rio de Janeiro 	 RJ
+Avenida Almirante Tamandaré, 191 - Loja 115 	Piratininga	Niterói 	 RJ
+Rua Visconde de Abaeté, 139 	Vila Isabel	Rio de Janeiro 	 RJ
+Rua Castro Barbosa, 1039 - Loja B 	Grajaú	Rio de Janeiro 	 RJ
+Rua Barão de Iguatemi, 358 - Loja B 	Praça da Bandeira	Rio de Janeiro 	 RJ
+Rua Castro Barbosa, 1011 	Grajaú	Rio de Janeiro 	 RJ
+Rua Ronald de Carvalho, 147 - Loja A 	Copacabana	Rio de Janeiro 	 RJ
+Avenida Carlos Ermelindo Marins, 501 	Jurujuba	Niterói 	 RJ
+Avenida Brasil, 367 - Duque de Caxias 	Vila São Luís	Duque de Caxias 	 RJ
+Praia José Bonifácio, 59 	Paquetá	Rio de Janeiro 	 RJ
+Rua Vítor Meireles, 92 	Riachuelo	Rio de Janeiro 	 RJ
+Rua da Lapa, 128 	Centro	Rio de Janeiro 	 RJ
+Rua Áurea Fonseca de Jesus, 204 	Califórnia	Nova Iguaçu 	 RJ
+Rua Cachambi, 438 	Cachambi	Rio de Janeiro 	 RJ
+	undefined	undefined	undefined
+Rua Guilhermina, 596 - Parte 	Encantado	Rio de Janeiro 	 RJ
+Rua Anita Garibaldi, 60 - Loja F 	Copacabana	Rio de Janeiro 	 RJ
+Rua Afonso Pena, 189 	Tijuca	Rio de Janeiro 	 RJ
+Rua Teodoro da Silva, 747 	Grajaú	Rio de Janeiro 	 RJ
+Rua Paramopama, 365 	Ribeira	Rio de Janeiro 	 RJ
+Rua Ronald de Carvalho, 266 - Loja D 	Copacabana	Rio de Janeiro 	 RJ
+Rua Salinópolis, 148 	Taquara	Rio de Janeiro 	 RJ
+Rua Cachambi, 394 	Cachambi	Rio de Janeiro 	 RJ
+Rua Barão de Mesquita, 235 	Tijuca	Rio de Janeiro 	 RJ
+Estrada Rodrigues Caldas, 661 	Taquara	Rio de Janeiro 	 RJ
+Rua Farme de Amoedo, 87 	Ipanema	Rio de Janeiro 	 RJ
+Praça Bom Jesus, 12 	Ilha de Paquetá	Rio de Janeiro 	 RJ
+Rua Barata Ribeiro, 354 - Loja D 	Copacabana	Rio de Janeiro 	 RJ
+Rua São Luiz Gonzaga, 2330 	Benfica	Rio de Janeiro 	 RJ
+undefined

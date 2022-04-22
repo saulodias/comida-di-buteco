@@ -1,0 +1,17 @@
+{
+  "name": "comida-di-buteco",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "cdb.js",
+  "scripts": {
+    "start": "node ./cdb"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "jsdom": "^19.0.0"
+  }
+}
